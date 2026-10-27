@@ -2,6 +2,8 @@
 
 Landing page da Ótica Pop Vision. Site estático (HTML + CSS + JS), publicado pelo GitHub Pages.
 
+🔗 **Site:** https://pedromarra.github.io/otica-pop-vision/
+
 ## Como editar
 
 - **Número do WhatsApp:** abra `script.js` e preencha `const WHATSAPP = '55DDDNUMERO';`. Todos os botões passam a usar esse número.
